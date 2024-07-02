@@ -4,20 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2766f2db-8d09-4c0e-a874-b0d8ac552ca4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="2766f2db-8d09-4c0e-a874-b0d8ac552ca4" name="Changes" comment="create tests">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EnteranceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EnteranceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/WebDriverFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2iHR74dOaRb3n0HP6qAtzAUVL3w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,12 +48,106 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.ConstructorTest.goToTheBunSection.executor": "Run",
+    "JUnit.ConstructorTest.goToTheFillingsSection.executor": "Run",
+    "JUnit.ConstructorTest.goToTheSauceSection.executor": "Run",
+    "JUnit.EnteranceTest.entaranceFromButtonEnterOnMainPage.executor": "Run",
+    "JUnit.EnteranceTest.entaranceFromPasswordRecovery.executor": "Run",
+    "JUnit.EnteranceTest.entaranceFromPersonalArea.executor": "Run",
+    "JUnit.EnteranceTest.entaranceFromRegistration.executor": "Run",
+    "JUnit.RegistrationTest.createOrder.executor": "Run",
+    "JUnit.RegistrationTest.executor": "Run",
+    "JUnit.RegistrationTest.inputIncorrectPassword.executor": "Run",
+    "JUnit.RegistrationTest.successRegistration.executor": "Run",
+    "JUnit.TransitionsTest.exitFromAccountFromPersonalArea.executor": "Run",
+    "JUnit.TransitionsTest.transitionInConstructor.executor": "Run",
+    "JUnit.TransitionsTest.transitionInConstructorFromStellarBurgers.executor": "Run",
+    "JUnit.TransitionsTest.transitionPersonalArea.executor": "Run",
+    "Maven.Diplom_3 [allure:serve].executor": "Run",
+    "Maven.Diplom_3 [clean,test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop3",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Diplom/Diplom_3/src/test/java",
+    "last_opened_file_path": "C:/Diplom/Diplom_3"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+      <command value="mvn allure:serve" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RegistrationTest.inputIncorrectPassword">
+    <configuration name="EnteranceTest.entaranceFromButtonEnterOnMainPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnteranceTest" />
+      <option name="METHOD_NAME" value="entaranceFromButtonEnterOnMainPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnteranceTest.entaranceFromPasswordRecovery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnteranceTest" />
+      <option name="METHOD_NAME" value="entaranceFromPasswordRecovery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnteranceTest.entaranceFromRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnteranceTest" />
+      <option name="METHOD_NAME" value="entaranceFromRegistration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.inputIncorrectPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationTest" />
+      <option name="METHOD_NAME" value="inputIncorrectPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.successRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationTest" />
+      <option name="METHOD_NAME" value="successRegistration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegistrationTest.inputIncorrectPassword" />
+        <item itemvalue="JUnit.RegistrationTest.successRegistration" />
+        <item itemvalue="JUnit.EnteranceTest.entaranceFromButtonEnterOnMainPage" />
+        <item itemvalue="JUnit.EnteranceTest.entaranceFromPasswordRecovery" />
+        <item itemvalue="JUnit.EnteranceTest.entaranceFromRegistration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +157,42 @@
       <option name="presentableId" value="Default" />
       <updated>1719145348864</updated>
     </task>
+    <task id="LOCAL-00001" summary="create tests">
+      <option name="closed" value="true" />
+      <created>1719593910532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719593910532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="create tests" />
   </component>
 </project>
