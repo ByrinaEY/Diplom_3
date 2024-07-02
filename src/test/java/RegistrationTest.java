@@ -5,7 +5,6 @@ import org.example.BurgerEntarancePage;
 import org.example.BurgerMainPage;
 import org.example.BurgerRegistrationPage;
 import org.example.WebDriverFactory;
-import org.hamcrest.MatcherAssert;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
@@ -15,8 +14,6 @@ import user.LogIn;
 import user.User;
 
 import static org.apache.commons.lang3.RandomStringUtils.randomAlphanumeric;
-import static org.hamcrest.core.Is.is;
-import static user.LogIn.checkRequestAuthLogin;
 
 /* Регистрация
 * Проверь:
